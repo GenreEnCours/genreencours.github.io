@@ -3,8 +3,7 @@ uuid: 586113b1-884e-47f2-8165-70b55b3b892b
 
 
 title: "Former les sages-femmes à l’accouchement : l’enseignement d’Angélique du Coudray"
-author: Entretien avec 
-    - Emmanuelle Berthiaud
+author: [Emmanuelle Berthiaud]
 tags:
     - histoire/civilisation
     - anthropologie
