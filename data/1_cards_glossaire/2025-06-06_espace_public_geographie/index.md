@@ -7,8 +7,6 @@ author:
 tags:
     - géographie/urbanisme
     - époque contemporaine
-
-image: vignette notice L Péaud.jpg
 ---
 
 D’après les travaux de la géographe Marion Tillous (2020), 100% des femmes et minorités de genre ont connu de l’inconfort ou de la peur dans les espaces publics et 25% d’entre elles ont  été victimes de violence dans les transports en commun. Cela peut aller des violences verbales aux violences physiques les plus extrêmes. Dans certains contextes politiques, ces espaces sont aussi surveillés, parfois soumis à une présence policière forte et recourant à la violence politique, à laquelle les femmes et minorités de genre sont particulièrement exposées – l’Egypte détient à ce titre le triste record de la violence faite aux femmes dans les espaces publics, 99% des femmes déclarant y avoir déjà subi des violences, celles-ci étant encore plus fortes pour les minorités de genre. L’entrée par le genre interroge donc le caractère universel et pleinement accessible des espaces publics. Il est ici principalement question des espaces publics occidentaux – comprenant les situations européennes principalement, ainsi qu’anglophones et latino-américaines, qui partagent beaucoup de traits communs. Nous nous concentrons également en priorité sur les espaces publics physiques et urbains, en évoquant brièvement les espaces publics virtuels (média, réseaux sociaux, etc.).

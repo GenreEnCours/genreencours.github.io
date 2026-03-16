@@ -11,8 +11,6 @@ tags:
     - masculinités
     - éducation aux médias
     - extrême-droite
-
-image: data/0_cards_Médiathèque/2025-06-06_Alain_Soral_et_la_masculinite/index.md
 ---
 
 [Genre-en-cours recommande cette ressource](https://genere.hypotheses.org/416)

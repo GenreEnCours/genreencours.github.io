@@ -19,7 +19,7 @@ La perspective adoptée par cet outil est de se placer en amont des inégalités
 
 ## Petit guide d’utilisation 
 
-![La toile de l'égalité, Isabelle Collet, université de Genève](<toile-egalité Isabelle Collet.png>)
+![La toile de l'égalité, Isabelle Collet, université de Genève](toile-egalité Isabelle Collet.png)
 
 Les vignettes extérieures correspondent à ce que doit vivre le public ciblé, tandis l’ensemble des déclinaisons fait référence à l’action enseignante pour atteindre les quatre objectifs centrés sur les personnes en situation d’apprentissage (élèves, étudiant•es, adultes en formation…). L’outil peut être utilisé en amont d’une situation pour en penser les conditions égalitaires ou en aval dans le cadre d’analyses de pratiques. Dans ce second usage, la finalité, au regard d’une situation, est de barrer les éléments qui n’ont pas été activés et d’en penser les améliorations possibles. 
 
