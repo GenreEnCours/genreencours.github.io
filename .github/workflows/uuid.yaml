@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - master  # Modifie selon la branche sur laquelle tu veux que l'action se déclenche
-
+permissions:
+  contents: write
 jobs:
   add_uuid:
     runs-on: ubuntu-latest
