@@ -1,4 +1,6 @@
 ---
+uuid: b91cd44d-ed16-4803-a829-9a19f5c883c2
+
 
 
 title: "Pédagogies féministes : trame d'un cours par correspondance"
