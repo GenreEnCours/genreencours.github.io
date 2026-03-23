@@ -7,6 +7,7 @@ author:
     - Judith Gourmelin
 tags:
     - anthropologie
+    - sociologie/science politique
     - scénario péda/exercices
     - masculinités
 ---

@@ -35,7 +35,7 @@ Elle présente de cette manière l'exercice proposé :
 Dans l'article, elle présente d'abord les motifs de colère et les préoccupations des adolescent·es, avec leurs mots. Les vécus des violences et des discriminations les imprègnent. Elle défend par ce biais la construction plus fréquente d'espaces d'échange dans l'enceinte scolaire, où l'expression des émotions est possible, en rupture avec la dimension viriliste des normes scolaires (mise en avant de la maîtrise, du contrôle des émotions). Elle défend ainsi "une école qui s'adapte aux élèves".
 
 
-## Quelques papiers de colère des lycéen.nes 
+## Quelques papiers de colère des lycéen·nes 
 
 ![« Les insultes, les mensonges »](3.png)
 
