@@ -2,7 +2,7 @@
 uuid: bebfca65-830a-4d64-be07-495f891905d7
 
 
-title: "Enseigner les masculinités avec la méthaphore de l'homme tomate"
+title: "Comprendre la masculinité avec la métaphore de l'homme tomate"
 author: 
     - Judith Gourmelin
 tags:
@@ -40,24 +40,7 @@ Plutôt que l’énoncer intégralement en une fois (car elle est dense en impli
 
 ## Ressource 
 
-
-| C’est quoi une tomate ? | La masculinité est un arbitraire social |
-| - | - |
-| Après tout, on sait toustes spontanément ce qu’est une tomate, mais au moment de définir formellement, ça devient plus difficile. Un•e cuisinier•e dira que c’est un légume ou une crudité, tandis qu’un•e biologiste la classera comme un fruit.
-
-Et que faut-il pour qu’une tomate soit une tomate ? Que ce soit au goût, à la texture ou encore à l’apparence, d’autres aliments ou des produits de synthèse seraient alors des tomates. Et au fond, plein de tomates, plus petites que la moyenne, au goût très altéré, plus molles ou plus dures, rouges ou vertes ne seraient plus des tomates. Si on réfléchit depuis la destination : la tomate fraiche n’a plus grand-chose à voir avec la tomate mise en sauce pour faire la base de la tomate ou cuite pour être débarrassée de son acidité et orner la pizza. Si on réfléchit depuis l’origine : entre pays de culture et types de culture, dès le début les tomates peuvent avoir des aspects très différents.
-
-Si on a de nombreux indices et mots pour essayer de décrire ce que serait ou ne serait pas une tomate, rien n’est pleinement satisfaisant. Les définitions plus formelles de la biologie ne seraient pas très pratiques pour le cuisiner et vice-versa. Au final, une tomate est une tomate car on a collectivement décidé qu’elle en était une, les indices utilisés sont bien réels (couleur souvent rouge, cœur juteux ...) mais la frontière entre la tomate et le reste est arbitraire. | On a une idée de ce qu’est un homme car on a appris à reconnaître un ensemble d’indices ordinaires (voix, types de pilosité, style vestimentaire, parfums portés, centres d’intérêt ...), ou mobilisés par des scientifiques (organes génitaux, chromosomes, hormones secrétées, propriétés cérébrales ...). Mais ces indices ne prennent sens qu’ensemble, sinon de nombreux hommes n’en seraient pas (même du côté des indices utilisés par des médecins, il est fréquent qu’un homme ne possède pas tous les traits cités).
-
-Et surtout, ces indices sont tout aussi arbitraires que relationnels. On a besoin d’identifier ce qu’est un homme pour le différencier d’une femme. Ces indices peuvent avoir de vraies bases (la pilosité faciale, la testostérone, le goût pour le tuning existent) mais leur regroupement pour dire ce qu’est un homme est un choix réalisé par notre société. Il pourrait en être autrement et toutes les sociétés ne tiennent pas compte des mêmes critères pour différencier les deux sexes.
-
-Il n’y a donc pas de différence entre une masculinité biologique, psychologique ou sociale. La masculinité est intégralement sociale, mais chaque société en justifie l’existence en trouvant des traits biologiques, psychologiques ou sociaux. |
-
-Proposition de prolongement : comment les médecins persuadent les familles de ramener leur enfant intersexué vers l’un des deux sexes ?
-
-Larrieu Gaëlle (2022), [« Gouverner les corps sexués. Les variations du développement sexuel des enfants au prisme du pouvoir médical et familial »](https://journals.openedition.org/teth/4938), *Terrains/Théories*, n°16 
-
-
+Retrouvez [un document](ressource-Gourmelin.pdf) qui explicite la manière dont la métaphore peut se déployer en contexte éducatif.
 	
 .
  
