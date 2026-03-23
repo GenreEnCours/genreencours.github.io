@@ -14,8 +14,9 @@ tags:
 
 
 abstract: "Dans l’ouvrage *Le Commun des mortelles. Faire face au féminicide* (Divergences, 2025), la politiste et socio-historienne Margot Giacinti étudie la genèse de cette idée politique – le meurtre des femmes parce qu’elles sont des femmes – chez les théoriciennes et militantes féministes. Elle ne s’en tient pas à la théorisation et entre également dans la mécanique de ces crimes, sur la longue durée, pour en montrer les dimensions politiques et structurelles."
----
 
+image: lecommundesmortelles.png
+---
 
 
 ## Généalogies féministes du féminicide
