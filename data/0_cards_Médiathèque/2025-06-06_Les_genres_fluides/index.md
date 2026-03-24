@@ -7,6 +7,7 @@ author:
 
 tags:
     - histoire/civilisation
+	- littérature/linguistique
     - études trans
     - Moyen Age
     - partenariat EHNE
