@@ -56,7 +56,7 @@ Le spectateur, ou la spectatrice, n’a pas d’autre choix que de partager le r
 
 [Une scène de *Meurs un autre jour*](https://www.youtube.com/watch?v=gdbIINpktOs), de Lee Tamahori, sorti en 2002, est souvent citée comme l’exemple canonique de cette superposition de regards. La caméra nous montre James Bond (Pierce Brosnan) observer quelque chose avec des jumelles (A). Le plan suivant est le point de vue de James Bond, marqué par la forme arrondie des jumelles qui observe une jeune femme (Halle Berry) sortir de l’eau (B). Le plan suivant cadre à nouveau James Bond, qui baisse ses jumelles mais continue à regarder la « James Bond Girl » (plan C). Le contre-champ nous montre à nouveau la jeune femme, mais cette fois sans le filtre des jumelles (plan D). La vision du personnage masculin devient la nôtre. 
 
-![Captures d’écran de Meurs un autre jour 2002](bond.PNG)
+![Captures d’écran de *Meurs un autre jour*, 2002.](bond.PNG)
 
 De ce phénomène découle une autre conséquence dans la représentation des femmes à l'écran: leur rôle restreint dans l'intrigue et leur relatif silence. « La présence de la femme est donc un élément indispensable du spectacle dans les films narratifs classiques, et pourtant son impact visuel tend à empêcher le bon déroulement de l’histoire, à geler l’action en moments de contemplations érotiques » écrit aussi Mulvey (1975, 11). Les personnages féminins sont souvent réduits au silence, ou à des conversations sur les autres personnages masculins et leurs relations. 
 
@@ -80,7 +80,7 @@ Le point de vue dirigé par la caméra n'est donc plus celui d'un homme qui rega
 Depuis sa sortie en 2019, le film *Portrait de la Jeune fille en feu* de Céline Sciamma est devenu l’exemple typique du *female gaze*. En effet, l’intrigue suit Marianne (Noémie Merlant), une peintre, chargée de faire en secret le portrait de Héloïse (Adèle Haenel). Le regard et la représentation sont donc des thèmes centraux dans le film, qui nous montre Marianne observer Héloïse en cachette à de nombreuses reprises. 
 Une scène renverse ce rapport habituel entre un objet du regard passif et un observateur-créateur actif. Après avoir accepté de poser pour la peintre, Héloïse l’invite à s'asseoir à sa place quelques instants, forçant ainsi la créatrice à adopter le regard de son modèle. De même, Héloïse regarde elle aussi la peintre (plan B), ce qui trouble cette dernière (C). Une fois réunies dans le même plan, à la place de la modèle, elles n’ont pas d’autre choix que de se regarder comme des égales, toutes deux à la fois sujets et objets du désir (D).
 
-![Captures d’écran de *Portrait de la jeune fille en feu* (2019)](portrait.PNG)
+![Captures d’écran de *Portrait de la jeune fille en feu* (2019).](portrait.PNG)
 
 Ce *female gaze* n'est pas réservé aux réalisatrices ; parce qu'il est un point de vue, il peut être adopté par tout‧e réalisateur‧ice, comme en témoigne la liste de films au regard féminin dressée à la fin de l’essai. Citons notamment *Thelma et Louise* de Ridley Scott (1991), *Titanic* de James Cameron (1997), sans oublier *Wonder Woman* de Patty Jenkins (2017). 
 
