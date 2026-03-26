@@ -15,7 +15,7 @@ image: normsctk.PNG
 
 *Ressources en anglais*
 
-![*Norm Criticism Toolkit*, IGLYO, 2015](normzzzzzzsctk.PNG)
+![*Norm Criticism Toolkit*, IGLYO, 2015](normsctk.PNG)
 
 ## QUOI : 
 Un guide avec 16 activités pédagogiques qui visent à sensibiliser aux privilèges, aux rapports de pouvoir et aux exclusions causées par différentes normes qui structurent les sociétés européennes. Activités facilement adaptables, certaines plus dynamiques, impliquant du mouvement, d’autres plus calmes, basées sur la discussion.
