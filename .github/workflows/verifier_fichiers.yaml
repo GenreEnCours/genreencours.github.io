@@ -1,0 +1,117 @@
+name: ✅ Vérifier Fichiers
+
+on:
+  # Run on every push and pull request targeting main / master
+  push:
+    branches: ["main", "master"]
+    paths:
+      - "data/**"
+      - "scripts/validate-markdown.js"
+
+  # Manual trigger from the Actions tab with an optional "fix indentation" toggle
+  workflow_dispatch:
+    inputs:
+      fix_indent:
+        description: "Réparer automatiquement les problèmes d'indentation frontmatter"
+        type: boolean
+        default: false
+
+jobs:
+  validate:
+    name: Validate & lint Markdown files
+    runs-on: ubuntu-latest
+
+    permissions:
+      # Needed to push the auto-fix commit back to the branch
+      contents: write
+
+    steps:
+      # ── Checkout ────────────────────────────────────────────────────────────
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch the full history so we can push the fix commit afterwards
+          fetch-depth: 0
+
+      # ── Node setup ──────────────────────────────────────────────────────────
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      # ── Install dependencies ────────────────────────────────────────────────
+      - name: 📦 Install dependencies
+        run: npm i gray-matter
+
+      # ── Run validation (detection only) ─────────────────────────────────────
+      - name: 🔍 Validate Markdown files
+        id: validate
+        # Always run this step so the summary is always written, even if the
+        # previous steps failed.  The script itself sets exit-code 1 on errors.
+        run: |
+          node scripts/validate-markdown.js
+        continue-on-error: true
+        # Pass GITHUB_STEP_SUMMARY so the script can write the rich report
+        env:
+          GITHUB_STEP_SUMMARY: ${{ runner.temp }}/step_summary.md
+
+      # ── Write summary ────────────────────────────────────────────────────────
+      - name: 📋 Write job summary
+        if: always()
+        run: |
+          if [ -f "${{ runner.temp }}/step_summary.md" ]; then
+            cat "${{ runner.temp }}/step_summary.md" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      # ── Auto-fix indentation (manual trigger only) ────────────────────────
+      - name: 🔧 Fix indentation issues
+        id: fix
+        if: >
+          github.event_name == 'workflow_dispatch' &&
+          inputs.fix_indent == true
+        run: |
+          node scripts/validate-markdown.js --fix-indent
+        env:
+          GITHUB_STEP_SUMMARY: ${{ runner.temp }}/step_summary_fix.md
+
+      - name: 📋 Write fix summary
+        if: >
+          github.event_name == 'workflow_dispatch' &&
+          inputs.fix_indent == true
+        run: |
+          if [ -f "${{ runner.temp }}/step_summary_fix.md" ]; then
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "---" >> "$GITHUB_STEP_SUMMARY"
+            echo "## 🔧 Rapport après réparation d'indentation" >> "$GITHUB_STEP_SUMMARY"
+            cat "${{ runner.temp }}/step_summary_fix.md" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      # ── Commit the auto-fixed files ──────────────────────────────────────
+      - name: 💾 Commit indentation fixes
+        if: >
+          github.event_name == 'workflow_dispatch' &&
+          inputs.fix_indent == true
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage only files that were actually modified
+          git diff --name-only | grep -E '\.(md|markdown)$' | xargs -r git add
+
+          if git diff --cached --quiet; then
+            echo "✅ Aucune modification à commiter (indentations déjà propres)"
+          else
+            CHANGED=$(git diff --cached --name-only | wc -l | tr -d ' ')
+            git commit -m "fix(markdown): repair frontmatter indentation in ${CHANGED} file(s) [skip ci]"
+            git push
+            echo "✅ ${CHANGED} fichier(s) commité(s) avec indentation corrigée"
+          fi
+
+      # ── Fail the job if validation errors remain ─────────────────────────
+      - name: 🚨 Fail on validation errors
+        if: steps.validate.outcome == 'failure'
+        run: |
+          echo "::error::Des problèmes ont été détectés dans les fichiers Markdown."
+          echo "::error::Consultez le résumé du job pour la liste complète."
+          exit 1
