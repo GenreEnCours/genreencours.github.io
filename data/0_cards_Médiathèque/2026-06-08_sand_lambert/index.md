@@ -1,4 +1,6 @@
 ---
+uuid: 562de9e7-07a1-4fe6-b4f0-3c5f25dfc9aa
+
 
 
 title: "Sociabilités et réseaux artistiques au 19e siècle : les lettres de George Sand au peintre Eugène Lambert"
