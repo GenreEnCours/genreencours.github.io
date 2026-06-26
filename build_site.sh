@@ -44,6 +44,16 @@ else
   exit 1
 fi
 
+# Copier les logos de partenariats dans le dossier static (servi à la racine du site)
+LOGOS_SRC="$RESSOURCES/LogosPartenariats"
+LOGOS_DEST="$TARGET_DIR/static/LogosPartenariats"
+if [[ -d "$LOGOS_SRC" ]]; then
+  mkdir -p "$LOGOS_DEST"
+  cp -r "$LOGOS_SRC"/* "$LOGOS_DEST"/ 2>/dev/null && echo "Logos de partenariats copiés vers $LOGOS_DEST"
+else
+  echo "Dossier $LOGOS_SRC introuvable, copie des logos de partenariats ignorée."
+fi
+
 # Copier le contenu de ./data dans code/src
 echo "Copie du contenu de $DATA_SRC vers $CODE_SRC/data..."
 cp -r "$DATA_SRC"/* "$CODE_SRC/data" || { echo "Erreur lors de la copie de $DATA_SRC"; exit 1; }

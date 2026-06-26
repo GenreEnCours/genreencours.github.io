@@ -8,5 +8,28 @@
     "Qui sommes nous ? ",
     "astuces",
     "Astuces pédagogiques "
-  ]
+  ],
+  "home": {
+    "heading": "Outils et ressources pour",
+    "rotatingWords": [
+      "apprendre",
+      "bricoler ensemble",
+      "se former",
+      "s'informer",
+      "transformer nos pratiques"
+    ],
+    "additional": "du collège au lycée"
+  },
+  "partnerships": {
+    "partenariat MNHN": {
+      "name": "MNHN",
+      "logo": "MNHN-logo.jpg",
+      "url": "https://www.mnhn.fr/fr"
+    },
+    "partenariat EHNE": {
+      "name": "EHNE",
+      "logo": "Logo_EHNE.png",
+      "url": "https://ehne.fr/fr"
+    }
+  }
 }
