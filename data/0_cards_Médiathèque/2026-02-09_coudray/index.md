@@ -12,6 +12,7 @@ tags:
     - corps
     - partenariat EHNE
     - partenariat MNHN
+    - entretien
 
 abstract: "Sage-femme diplômée (1739), Angélique du Coudray est à l’origine d’une méthode pédagogique originale destinée à la formation des sages-femmes en dehors des structures hospitalières et en milieu rural. Celle-ci se décline en la publication d’un manuel et dans l’usage de mannequins pédagogiques, témoignant d’une formation tant théorique que pratique. Reconnus et soutenus par les autorités de son vivant, sa machine et son enseignement itinérant fournissent un modèle technique et pédagogique qui légitime, puis inspire, la création de véritables écoles de sages‑femmes en France."
 ---

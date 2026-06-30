@@ -15,6 +15,7 @@ tags:
     - époque contemporaine
     - partenariat EHNE
     - partenariat SorbonNum
+    - entretien
 
 abstract: "La bibliothèque Ascoli de Sorbonne Université conserve dans ses collections plus de 150 lettres envoyées par la femme de lettres George Sand (1804-1876) au peintre Eugène Lambert (1825-1900) et, plus épisodiquement, à son épouse Esther. Ce fonds Sand-Lambert a été numérisé et est désormais disponible en ligne sur [SorbonNum](https://patrimoine.sorbonne-universite.fr/), la bibliothèque numérique de Sorbonne Université. Souvent envoyées par Sand depuis le domaine de Nohant, dans le Berry, où Lambert a vécu une douzaine d’années et s’est investi dans les activités du petit théâtre local, ces lettres révèlent la proximité entre les deux artistes. C’est à la fois Sand comme mentor et comme mère de substitution qui y transparaît. Elle n’hésite pas à conseiller, encourager et intercéder en faveur de celui qu’elle surnomme « Lambrouche ». Cette riche correspondance révèle, par là même, les sociabilités et réseaux de l’écrivaine et du peintre dans la France du Second Empire et de la IIIe République."
 
