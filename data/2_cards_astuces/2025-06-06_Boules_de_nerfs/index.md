@@ -7,6 +7,7 @@ author:
 tags:
     - anthropologie
     - scénario péda/exercices
+    - lycée pro
 ---
 
 [Genre-en-cours recommande cette ressource](https://enmarges.fr/2025/04/30/boules-de-nerfs-sensibiliser-aux-inegalites-de-genre-en-lycee-par-lexpression-des-coleres/)
