@@ -18,7 +18,7 @@
       "s'informer",
       "transformer nos pratiques"
     ],
-    "additional": "du collège au lycée"
+    "additional": "du collège à l'université"
   },
   "partnerships": {
     "partenariat MNHN": {
@@ -30,6 +30,11 @@
       "name": "EHNE",
       "logo": "Logo_EHNE.png",
       "url": "https://ehne.fr/fr"
+    },
+    "partenariat SorbonNum": {
+      "name": "SorbonNum",
+      "logo": "logo SorbonNum.png",
+      "url": "https://patrimoine.sorbonne-universite.fr/"
     }
   }
 }
